@@ -41,6 +41,7 @@ a {
     bottom: 450px;
     position: absolute;
     text-indent: 50px;
+    display: none;
 }
 #canvas{
     height: 100vh;
