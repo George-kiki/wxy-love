@@ -38,7 +38,7 @@ a {
     width: 100%;
     padding-left: 50px;
     height: 425px;
-    bottom: 350px;
+    bottom: 450px;
     position: absolute;
     text-indent: 50px;
 }
@@ -55,7 +55,7 @@ a {
 #clock-box {
     position: absolute;
     left: 60px;
-    bottom: 850px;
+    bottom: 900px;
     font-size: 28px;
     display: none;
 }
